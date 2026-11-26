@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES client" width="100%"></p>
+
 # ngspades-client
 
 Public issues and roadmap of ngspades-client, the game client of the ngspades project. The code lives in a private repository.
